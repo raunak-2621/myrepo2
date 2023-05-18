@@ -8,6 +8,10 @@ void quicksort(){
 	//
 }
 
+void insertionsort(){
+	//
+}
+
 int main(){
 	cout<<"hello world!<<endl;
 }
